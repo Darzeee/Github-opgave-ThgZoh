@@ -6,7 +6,12 @@ void setup() {
 }
 
 void draw() {
-  background(0);
+float r = random(0 , 255);
+float g = random(0 , 255);
+float b = random(0 , 255);
+
+
+  background(r, g, b);
 
 
   circle(x, 200, 50);
