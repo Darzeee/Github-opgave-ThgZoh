@@ -15,6 +15,6 @@ float b = random(0 , 255);
 
 
   circle(x, 200, 50);
-  fill(255);
+  fill(#F70505);
   x = x + 2;
 }
