@@ -5,7 +5,7 @@ void setup() {
 }
 
 void draw() {
-  background(240);
+  background(0);
 
   fill(255, 120, 0);
   circle(x, 200, 50);
